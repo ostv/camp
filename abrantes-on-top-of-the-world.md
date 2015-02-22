@@ -1,5 +1,6 @@
 ---
 title: Abrantes on top of the world
+collection: articles
 template: 
 date: 
 author: 
