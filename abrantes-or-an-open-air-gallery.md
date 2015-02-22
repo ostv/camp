@@ -55,3 +55,38 @@ Design collective [We Came From Space][18] contributed with their poetic view of
 [24]: http://player.vimeo.com/video/109254971?byline=0&amp;portrait=0&amp;color=ffffff
 [25]: http://player.vimeo.com/video/108460495?byline=0&amp;portrait=0&amp;color=ffffff
 
+[![][26]][27]
+
+   [26]: http://i1.wp.com/180.camp/wp-content/uploads/2014/12/DSCF7273.jpg?resize=551%2C367 (DSCF7273)
+   [27]: http://180.camp/abrantes-or-an-open-air-gallery/dscf7273/
+
+[![][28]][29]
+
+   [28]: http://i0.wp.com/180.camp/wp-content/uploads/2014/12/DSCF7291.jpg?resize=551%2C368 (DSCF7291)
+   [29]: http://180.camp/abrantes-or-an-open-air-gallery/dscf7291/
+
+[![][30]][31]
+
+   [30]: http://i2.wp.com/180.camp/wp-content/uploads/2014/12/P1010694a.jpg?resize=416%2C739 (P1010694a)
+   [31]: http://180.camp/abrantes-or-an-open-air-gallery/p1010694a/
+
+[![][32]][33]
+
+   [32]: http://i0.wp.com/180.camp/wp-content/uploads/2014/12/DSCF7624.jpg?resize=483%2C322 (DSCF7624)
+   [33]: http://180.camp/abrantes-or-an-open-air-gallery/dscf7624/
+
+[![][34]][35]
+
+   [34]: http://i1.wp.com/180.camp/wp-content/uploads/2014/12/DSCF7676.jpg?resize=484%2C322 (DSCF7676)
+   [35]: http://180.camp/abrantes-or-an-open-air-gallery/dscf7676/
+
+[![][36]][37]
+
+   [36]: http://i0.wp.com/180.camp/wp-content/uploads/2014/12/DSCF7688.jpg?resize=264%2C396 (DSCF7688)
+   [37]: http://180.camp/abrantes-or-an-open-air-gallery/dscf7688/
+
+[![][38]][39]
+
+   [38]: http://i1.wp.com/180.camp/wp-content/uploads/2014/12/workshop_180_0007_20.jpg?resize=703%2C396 (workshop_180_0007_20)
+   [39]: http://180.camp/abrantes-or-an-open-air-gallery/workshop_180_0007_20/
+
