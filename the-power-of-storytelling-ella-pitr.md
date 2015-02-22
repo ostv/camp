@@ -2,7 +2,6 @@
 title: Ella & Pitr - The Power Of Storytelling
 wp_id: 
 ---
-
 >
 – You are pasting?  
 – Yeah.  
