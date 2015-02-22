@@ -3,7 +3,7 @@ title: Abrantes on top of the world
 collection: articles
 template: 
 date: 
-author: 
+author: ostv
 wp_id: 69
 ---
 
