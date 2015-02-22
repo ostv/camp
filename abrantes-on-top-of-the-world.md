@@ -2,7 +2,7 @@
 title: Abrantes on top of the world
 collection: articles
 template: 
-date: 
+date: 2015/02/22
 author: ostv
 wp_id: 69
 ---
