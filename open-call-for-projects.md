@@ -1,7 +1,6 @@
 ---
 title: Open Call For Projects
 collection: articles
-template: 
 date: 
 author:
 wp_id: 411
