@@ -21,7 +21,11 @@ Before, during and after each and every edition of the event, all related news (
 
 The animation video directed by Brazilian artist [Arthur Carvalho][12], who recruited children from the institution Pallha de Abrantes and all the citizens of Abrantes to draw all the animations by hand  
 
-[Like Knows Like][13] documentary about Portuguese illustrator [Wasted Rita][14]  
+[vimeo-embed][13]
+
+[Like Knows Like][14] documentary about Portuguese illustrator [Wasted Rita][15]  
+
+[vimeo-embed][16]
 
 [1]: http://www.gestalten.tv/
 [2]: http://www.astridgleichmann.de
@@ -35,5 +39,8 @@ The animation video directed by Brazilian artist [Arthur Carvalho][12], who recr
 [10]: https://www.facebook.com/180CreativeCamp
 [11]: http://www.canal180.pt/en/
 [12]: https://vimeo.com/submundo
-[13]: http://likeknowslike.com/
-[14]: http://www.wastedrita.com/
+[13]: http://player.vimeo.com/video/108455772
+[14]: http://likeknowslike.com/
+[15]: http://www.wastedrita.com/
+[16]: http://player.vimeo.com/video/103984483?byline=0&amp;portrait=0&amp;color=ffffff
+
