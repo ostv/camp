@@ -6,7 +6,6 @@ author: ostv
 related:
 wp_id: 94
 ---
-
 180 Creative Camp hosts artists and aspiring young creators from all over the world in order to come up with different ways of thinking creatively. Through collaborations between imaginative minds from different backgrounds we achieve innovative and quality content, stuff that has never been thought, seen or tried before.
 
 We’ve seen some great content emerge through the many editions of 180 Creative Camp. At the Abrantes 2014 edition, we hosted culture platform [Gestalten TV][1], represented by [Astrid Gleichmann][2] - who was shooting a documentary about multidisciplinary artist [Olaf Breuning][3] - and video project [Like Knows Like][4], represented by [Bas Berkhout][5], who in the meantime released [a mini-doc][6] about 180 Creative Camp Abrantes 2014 illustrator [Wasted Rita][7].
