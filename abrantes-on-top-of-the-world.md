@@ -60,6 +60,12 @@ Cover illustration by [Judith Carnaby][29]. [[Read Judith’s illustrated review
    [43]: http://i1.wp.com/180.camp/wp-content/uploads/2014/11/mr-thoms.jpg?resize=971%2C647 (mr thoms)
    [44]: http://180.camp/abrantes-on-top-of-the-world/mr-thoms/
 
+Tags: [180 Creative Camp][1], [Abrantes][2], [Boris Hoppek][3], [Canal180][4], [Chei Krew][5], [Ella & Pitr][6], [Mr. Thoms][7], [Samina][8], [Wasted Rita][9], [We Came From Space][10]
+
+### A COLLABORATION BETWEEN
+
+![canal180][1] ![cm-abrantes][2]
+
 
 [1]: https://www.facebook.com/saminartist?fref=ts
 [2]: https://vimeo.com/108460495
@@ -91,3 +97,15 @@ Cover illustration by [Judith Carnaby][29]. [[Read Judith’s illustrated review
 [28]: http://www.florentijnhofman.nl/dev/
 [29]: http://judithcarnaby.com/
 [30]: http://www.illustratorsillustrated.com/project/180-creative-camp-special/
+[31]: http://180.camp/tag/180-creative-camp/
+[32]: http://180.camp/tag/abrantes/
+[33]: http://180.camp/tag/boris-hoppek/
+[34]: http://180.camp/tag/canal180/
+[35]: http://180.camp/tag/chei-krew/
+[36]: http://180.camp/tag/ella-pitr/
+[37]: http://180.camp/tag/mr-thoms/
+[38]: http://180.camp/tag/samina/
+[39]: http://180.camp/tag/wasted-rita/
+[40]: http://180.camp/tag/we-came-from-space/
+[41]: http://180.camp/wp-content/uploads/2015/02/logo_180_canal.png
+[42]: http://180.camp/wp-content/uploads/2015/02/cm_abrantes.png
