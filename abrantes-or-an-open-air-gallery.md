@@ -5,7 +5,6 @@ date:
 author:
 wp_id: 178
 ---
-
 After the success of the first two editions of 180 Creative Camp in Abrantes (the creativity event counts four editions overall), the town has become an unexpected urban art gallery with works of celebrated contemporary artists. Among them, [Ella&Pitr][1], [Florentijn Hofman][2], [Mr.THOMS][3], [AKACORLEONE][4], [Lara Luís][5] and [SAMINA][6].
 
 Residents and visitors alike appreciate these pieces, stumbling upon them in the maze-like old streets of the town. Some of the most popular are the tiny suited men sculptures by street artist [Isaac Cordal][7], who uses his project [Cement Eclipses][8] to criticize society and its hierarchies and unfairness. (Swiss TV organization [RSI][9] was at 180 Creative Camp to accompany Isaac's work in Abrantes, [check their video report][10].)
