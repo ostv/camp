@@ -9,7 +9,7 @@ published: true
 
 In the last edition of 180 Creative Camp Abrantes, on July 2014, this creativity event hosted 20 young participants from 11 countries and 26 international renowned artists from different fields.
 
-![marducham](/Atelier3-20102011-image2.jpg)
+![marducham](/media/Atelier3-20102011-image2.jpg)
 
 Some of these creators only know Portugal through the 180 Creative Camp experience and their image of the country is Abrantes, a quiet interior town that they would never think of visiting if they were spending their holidays in Portugal. This town, on its part, has some unique things to show after hosting two incredible editions of 180 Creative Camp.
 
