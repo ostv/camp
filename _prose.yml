@@ -1,0 +1,4 @@
+prose:
+  media: 'media'
+  ignore: 
+    - _prose.yml
