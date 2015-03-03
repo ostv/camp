@@ -15,6 +15,8 @@ Some of these creators only know Portugal through the 180 Creative Camp experien
 
 ![Atelier3-20102011-image2.jpg](/media/Atelier3-20102011-image2.jpg)
 
+![screenshot1](/media/video-1.png)
+
 Lots of talent traveled to Abrantes and locals and visitants witness it everyday on the painted walls by [Samina][1], [Lara Luís][2], [Wasted Rita][3], [Mr. Thoms][4] & [Chei Krew][5], on the quiet witnesses sculpted by [Isaac Cordal][6] and on the several collages by [Ella & Pitr][7], [Boris Hoppek][8] and [We Came From Space][9]. [Want to know more? [Visit 180 Creative Camp’s street art album on facebook][10].] All these artists - at least for one week - were thinking about Abrantes and about creative ways to stimulate it and improve it, for the benefit of its citizens.
 
 Also ways to bring people to the stores of the historical center were put into practice thanks to the **Stores Attack Projects**. [Ece Canli’s][11] included a bit of Portuguese history in her [performance piece][11] at a local hairdresser, [Rubén Martín Hernández][12] - founder of adventure magazine [Dodo][13] - created [The Greatest Shop of Secrets in Abrantes][12].
