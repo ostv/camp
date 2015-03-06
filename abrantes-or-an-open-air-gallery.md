@@ -4,6 +4,7 @@ collection: articles
 date:
 author:
 wp_id: 178
+metaparsing: true *or* false
 ---
 After the success of the first two editions of 180 Creative Camp in Abrantes (the creativity event counts four editions overall), the town has become an unexpected urban art gallery with works of celebrated contemporary artists. Among them, [Ella&Pitr][1], [Florentijn Hofman][2], [Mr.THOMS][3], [AKACORLEONE][4], [Lara Luís][5] and [SAMINA][6].
 
