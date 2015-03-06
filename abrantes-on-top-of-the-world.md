@@ -9,13 +9,7 @@ published: true
 
 In the last edition of 180 Creative Camp Abrantes, on July 2014, this creativity event hosted 20 young participants from 11 countries and 26 international renowned artists from different fields.
 
-![NOAA-NDBC-discus-buoy.jpg](/media/NOAA-NDBC-discus-buoy.jpg)
-
 Some of these creators only know Portugal through the 180 Creative Camp experience and their image of the country is Abrantes, a quiet interior town that they would never think of visiting if they were spending their holidays in Portugal. This town, on its part, has some unique things to show after hosting two incredible editions of 180 Creative Camp.
-
-![Atelier3-20102011-image2.jpg](/media/Atelier3-20102011-image2.jpg)
-
-![video-1.png](/media/video-1.png)
 
 Lots of talent traveled to Abrantes and locals and visitants witness it everyday on the painted walls by [Samina][1], [Lara Luís][2], [Wasted Rita][3], [Mr. Thoms][4] & [Chei Krew][5], on the quiet witnesses sculpted by [Isaac Cordal][6] and on the several collages by [Ella & Pitr][7], [Boris Hoppek][8] and [We Came From Space][9]. [Want to know more? [Visit 180 Creative Camp’s street art album on facebook][10].] All these artists - at least for one week - were thinking about Abrantes and about creative ways to stimulate it and improve it, for the benefit of its citizens.
 
