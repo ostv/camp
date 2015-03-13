@@ -1,6 +1,7 @@
 ---
 title: 180 CREATIVE CAMP
 template: index.hbt
+markymark: true
 ---
 # [Creative Collaborations in Media Arts][1]
 
