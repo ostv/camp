@@ -5,6 +5,7 @@ date:
 author: ostv
 related:
 wp_id: 94
+markymark: true
 ---
 180 Creative Camp hosts artists and aspiring young creators from all over the world in order to come up with different ways of thinking creatively. Through collaborations between imaginative minds from different backgrounds we achieve innovative and quality content, stuff that has never been thought, seen or tried before.
 
