@@ -11,9 +11,7 @@ slug: olaf-breuning/
 order: 60
 ---
 
-# [Artists in Residence · OLAF BREUNING][7]
-
-   [7]: 
+# Artists in Residence · OLAF BREUNING
 
 “An artist is someone who has an outside vision on the world” - [Olaf Breuning][8], multidisciplinary artist from Switzerland based in NYC, was one of the visionary artists-in-residence at 180 Creative Camp Abrantes 2014.
 
