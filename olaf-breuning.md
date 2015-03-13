@@ -7,7 +7,7 @@ id: 7
 author:
 date: 
 background: assets/uploads/2014/07/olaf-breuning.jpg
-slug: olaf-breuning/
+slug: olaf-breuning
 order: 60
 ---
 
