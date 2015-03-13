@@ -1,6 +1,14 @@
 ---
 title: Ella & Pitr - The Power Of Storytelling
-wp_id: 207
+collection: pages
+markymark: true
+template: page.hbt
+id: 207
+author: 
+date: 
+background: assets/uploads/2014/11/ellapitr.jpg
+slug: the-power-of-storytelling-%c2%b7-ella-pitr/
+order: 50
 ---
 
 >
