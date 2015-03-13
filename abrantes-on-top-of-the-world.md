@@ -1,10 +1,14 @@
 ---
 title: Abrantes on top of the world
-collection: articles
-date: 2015/02/22
-author: ostv
-wp_id: 69
-published: true
+collection: pages
+markymark: true
+template: page.hbt
+id: 69
+author:
+date: 
+background: assets/uploads/2014/11/CCAMP-detail-3-1024x663.png
+slug: abrantes-on-top-of-the-world/
+order: 30
 ---
 
 In the last edition of 180 Creative Camp Abrantes, on July 2014, this creativity event hosted 20 young participants from 11 countries and 26 international renowned artists from different fields.
