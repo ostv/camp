@@ -7,7 +7,7 @@ id: 411
 author: 
 date: 
 background: assets/uploads/2014/12/DSCF7353.jpg
-slug: open-call-for-projects/
+slug: open-call-for-projects
 order: 40
 ---
 
