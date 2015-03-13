@@ -1,10 +1,16 @@
 ---
 title: Open Call For Projects
-collection: articles
+collection: pages
+markymark: true
+template: page.hbt
+id: 411
+author: 
 date: 
-author:
-wp_id: 411
+background: assets/uploads/2014/12/DSCF7353.jpg
+slug: open-call-for-projects/
+order: 40
 ---
+
 Right before 180 Creative Camp Abrantes 2014, an international open call was launched to select two urban intervention projects to be implemented in Abrantes, with the purpose of stimulating the historical center of the town. For this contest, [Canal180][1] teamed up with [ArchDaily][2] and with the [City Council of Abrantes][3] to select the two winning projects, which would be awarded €2.500 each. This value was destined to the construction of the projects by the authors during the week of 180 Creative Camp (July 13th to 20th).
 
 By the end of the contest, 72 projects were submitted by authors from 18 different countries – among them Chile, Brazil, Germany and India. Projects [“KARAT”][4] and [“The 12 Thousand Pairs of Shoes From Abrantes”][5] were the [big winners][6]. An honorable mention was given to ["Silver Lining"][7], designed by locals Joana Borda d’Água and Joana Barbedo.
