@@ -7,7 +7,7 @@ id: 94
 author: 
 date: 
 background: assets/uploads/2014/11/MO_Creative-Camp_dia2-14.jpg
-slug: creative-collaborations-in-media-arts
+slug: creative-collaborations-in-media-arts/
 order: 10
 ---
 
