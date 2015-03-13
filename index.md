@@ -4,6 +4,7 @@ template: index.hbt
 markymark: true
 author:
 date: 
+permalink: false 
 ---
 ## Creative Collaborations in Media Arts
 
