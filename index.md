@@ -5,7 +5,7 @@ markymark: true
 ---
 # [Creative Collaborations in Media Arts][1]
 
-[][2]2 minute read by [][3]
+[][2]2 minute read by [ostv][3]
 
 # [An Open Air Gallery][4]
 
