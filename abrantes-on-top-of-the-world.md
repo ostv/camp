@@ -7,7 +7,7 @@ id: 69
 author:
 date: 
 background: assets/uploads/2014/11/CCAMP-detail-3-1024x663.png
-slug: abrantes-on-top-of-the-world/
+slug: abrantes-on-top-of-the-world
 order: 30
 ---
 
