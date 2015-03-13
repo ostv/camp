@@ -7,7 +7,7 @@ id: 178
 author: 
 date: 
 background: assets/uploads/2014/12/isaac-10.1.jpg
-slug: abrantes-or-an-open-air-gallery/
+slug: abrantes-or-an-open-air-gallery
 order: 20
 ---
 
