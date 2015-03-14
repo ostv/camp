@@ -8,15 +8,6 @@ author:
 date: 
 order: 20
 background: assets/uploads/2014/12/isaac-10.1.jpg
-media0: 
- title: Watch Canal180′s MAG "An Open Air Gallery in Abrantes"
- url: https://www.youtube.com/embed/KAv8oBPUpb4
-media1: 
- title: Watch this 180ID about sculptor and street artist Isaac Cordal
- url: http://player.vimeo.com/video/109254971?byline=0&amp;portrait=0&amp;color=ffffff
-media2: 
- title: Watch this 180ID about illustrator and street artist Lara Luís
- url: http://player.vimeo.com/video/108460495?byline=0&amp;portrait=0&amp;color=ffffff
 ---
 
 After the success of the first two editions of 180 Creative Camp in Abrantes (the creativity event counts four editions overall), the town has become an unexpected urban art gallery with works of celebrated contemporary artists. Among them, [Ella&Pitr][1], [Florentijn Hofman][2], [Mr.THOMS][3], [AKACORLEONE][4], [Lara Luís][5] and [SAMINA][6].
@@ -28,6 +19,19 @@ The Cement Eclipses are hidden in the streets of Abrantes, however you can find 
 180 Creative Camp makes use of forsaken or unused structures and uses the features of each location as inspiration. The event ends up [paying homage][12] to places that were until that moment abandoned or unnoticed, and it’s now a big part of the [identity of that spot][13], and even of the town itself. The  [humorous drawings][14] by [Boris Hoppek][15] and the [fresh honesty][16] of [Wasted Rita][17], for instance, are giving a new life to the old buildings.
 
 Design collective [We Came From Space][18] contributed with their poetic view of typography. These artists gave a workshop with the purpose of illustrating the poem [“Dies Irae”][19] by the great Portuguese writer Miguel Torga, whose words can now be followed through the [streets][20], [squares][21] and [balconies][22] of the town.
+
+**Watch Canal180&#8242;s MAG &#8220;An Open Air Gallery in Abrantes&#8221;**
+
+<iframe src="http://www.youtube.com/embed/KAv8oBPUpb4?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+**Watch this 180ID about sculptor and street artist Isaac Cordal**
+
+<iframe src="http://player.vimeo.com/video/109254971?byline=0&amp;portrait=0&amp;color=ffffff" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+**Watch this 180ID about illustrator and street artist Lara Luís**
+
+<iframe src="http://player.vimeo.com/video/108460495?byline=0&amp;portrait=0&amp;color=ffffff" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 
 [1]: https://vimeo.com/101549722
 [2]: https://www.facebook.com/180CreativeCamp/photos/pb.645005708849639.-2207520000.1420641836./875068652510009/?type=3&src=https%3A%2F%2Ffbcdn-sphotos-c-a.akamaihd.net%2Fhphotos-ak-xap1%2Fv%2Ft1.0-9%2F10247330_875068652510009_7542085625584267062_n.jpg%3Foh%3D92bad006b77a4b9bbcad8ced77b049b8%26oe%3D5532E0FB%26__gda__%3D1429310759_be6a0b8e77facdbbb9efbed6337d1b0e&size=960%2C640&fbid=875068652510009
