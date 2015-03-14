@@ -35,17 +35,17 @@ The Cement Eclipses are hidden in the streets of Abrantes, however you can find 
 
 Design collective [We Came From Space][18] contributed with their poetic view of typography. These artists gave a workshop with the purpose of illustrating the poem [“Dies Irae”][19] by the great Portuguese writer Miguel Torga, whose words can now be followed through the [streets][20], [squares][21] and [balconies][22] of the town.
 
-**Watch Canal180&#8242;s MAG &#8220;An Open Air Gallery in Abrantes&#8221;**
+## Watch Canal180&#8242;s MAG &#8220;An Open Air Gallery in Abrantes&#8221;
 
-<iframe src="http://www.youtube.com/embed/KAv8oBPUpb4?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="http://www.youtube.com/embed/KAv8oBPUpb4?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br/>
 
-**Watch this 180ID about sculptor and street artist Isaac Cordal**
+## Watch this 180ID about sculptor and street artist Isaac Cordal
 
-<iframe src="http://player.vimeo.com/video/109254971?byline=0&amp;portrait=0&amp;color=ffffff" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="http://player.vimeo.com/video/109254971?byline=0&amp;portrait=0&amp;color=ffffff" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br/>
 
-**Watch this 180ID about illustrator and street artist Lara Luís**
+## Watch this 180ID about illustrator and street artist Lara Luís
 
-<iframe src="http://player.vimeo.com/video/108460495?byline=0&amp;portrait=0&amp;color=ffffff" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="http://player.vimeo.com/video/108460495?byline=0&amp;portrait=0&amp;color=ffffff" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br/>
 
 [![][26]][27]
 
