@@ -11,7 +11,8 @@ background: assets/uploads/2014/11/MO_Creative-Camp_dia2-14.jpg
 media0:
  url: http://player.vimeo.com/video/108455772
 media1:
- title: [Like Knows Like](http://likeknowslike.com/) documentary about Portuguese illustrator [Wasted Rita](http://www.wastedrita.com/)
+ title0: [Like Knows Like](http://likeknowslike.com/) 
+ title1: documentary about Portuguese illustrator [Wasted Rita](http://www.wastedrita.com/)
  url: http://player.vimeo.com/video/103984483?byline=0&amp;portrait=0&amp;color=ffffff
 ---
 
