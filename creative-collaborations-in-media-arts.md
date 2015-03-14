@@ -1,14 +1,18 @@
 ---
 title: Creative Collaborations in Media Arts
 collection: pages
-markymark: true
+markymark: false
 template: page.hbt
 id: 94
 author: 
 date: 
-background: assets/uploads/2014/11/MO_Creative-Camp_dia2-14.jpg
-slug: creative-collaborations-in-media-arts
 order: 10
+background: assets/uploads/2014/11/MO_Creative-Camp_dia2-14.jpg
+media0:
+ url: http://player.vimeo.com/video/108455772
+media1:
+ title: [Like Knows Like](http://likeknowslike.com/) documentary about Portuguese illustrator [Wasted Rita](http://www.wastedrita.com/)
+ url: http://player.vimeo.com/video/103984483?byline=0&amp;portrait=0&amp;color=ffffff
 ---
 
 180 Creative Camp hosts artists and aspiring young creators from all over the world in order to come up with different ways of thinking creatively. Through collaborations between imaginative minds from different backgrounds we achieve innovative and quality content, stuff that has never been thought, seen or tried before.
@@ -25,12 +29,6 @@ Before, during and after each and every edition of the event, all related news (
 
 The animation video directed by Brazilian artist [Arthur Carvalho][12], who recruited children from the institution Pallha de Abrantes and all the citizens of Abrantes to draw all the animations by hand  
 
-[vimeo-embed][13]
-
-[Like Knows Like][14] documentary about Portuguese illustrator [Wasted Rita][15]  
-
-[vimeo-embed][16]
-
 [1]: http://www.gestalten.tv/
 [2]: http://www.astridgleichmann.de
 [3]: http://olafbreuning.tumblr.com/
@@ -43,8 +41,4 @@ The animation video directed by Brazilian artist [Arthur Carvalho][12], who recr
 [10]: https://www.facebook.com/180CreativeCamp
 [11]: http://www.canal180.pt/en/
 [12]: https://vimeo.com/submundo
-[13]: http://player.vimeo.com/video/108455772
-[14]: http://likeknowslike.com/
-[15]: http://www.wastedrita.com/
-[16]: http://player.vimeo.com/video/103984483?byline=0&amp;portrait=0&amp;color=ffffff
 
