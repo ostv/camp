@@ -8,6 +8,21 @@ author:
 date: 
 order: 20
 background: assets/uploads/2014/12/isaac-10.1.jpg
+tags:
+- 180 Creative Camp
+- Abrantes
+- akacorleone
+- Boris Hoppek
+- dies irae
+- florentijn hofman
+- Isaac Cordal
+- lara luís
+- miguel torga
+- Mr. Thoms
+- Samina
+- street art
+- Wasted Rita
+- We Came From Space
 ---
 
 After the success of the first two editions of 180 Creative Camp in Abrantes (the creativity event counts four editions overall), the town has become an unexpected urban art gallery with works of celebrated contemporary artists. Among them, [Ella&Pitr][1], [Florentijn Hofman][2], [Mr.THOMS][3], [AKACORLEONE][4], [Lara Luís][5] and [SAMINA][6].
