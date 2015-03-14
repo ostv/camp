@@ -83,23 +83,6 @@ Design collective [We Came From Space][18] contributed with their poetic view of
    [39]: http://180.camp/abrantes-or-an-open-air-gallery/workshop_180_0007_20/
 
 
-## Tags: 
-- [180 Creative Camp](tag/180-creative-camp/)
-- [Abrantes](tag/abrantes/)
-- [akacorleone](tag/akacorleone/)
-- [Boris Hoppek](tag/boris-hoppek/)
-- [dies irae](tag/dies-irae/)
-- [florentijn hofman](tag/florentijn-hofman/)
-- [Isaac Cordal](tag/isaac-cordal/)
-- [lara luís](tag/lara-luis/)
-- [miguel torga](tag/miguel-torga/)
-- [Mr. Thoms](tag/mr-thoms/)
-- [Samina](tag/samina/) 
-- [street art](tag/street-art/)
-- [Wasted Rita](tag/wasted-rita/)
-- [We Came From Space](tag/we-came-from-space/)
-
-
 [1]: https://vimeo.com/101549722
 [2]: https://www.facebook.com/180CreativeCamp/photos/pb.645005708849639.-2207520000.1420641836./875068652510009/?type=3&src=https%3A%2F%2Ffbcdn-sphotos-c-a.akamaihd.net%2Fhphotos-ak-xap1%2Fv%2Ft1.0-9%2F10247330_875068652510009_7542085625584267062_n.jpg%3Foh%3D92bad006b77a4b9bbcad8ced77b049b8%26oe%3D5532E0FB%26__gda__%3D1429310759_be6a0b8e77facdbbb9efbed6337d1b0e&size=960%2C640&fbid=875068652510009
 [3]: https://www.facebook.com/180CreativeCamp/photos/a.686177391399137.1073741863.645005708849639/695855693764640/?type=3&src=https%3A%2F%2Ffbcdn-sphotos-d-a.akamaihd.net%2Fhphotos-ak-prn2%2Fv%2Ft1.0-9%2F544464_695855693764640_786650588_n.jpg%3Foh%3Daf5d9504e5a31063b3b8152b12f233ba%26oe%3D553DDE6A%26__gda__%3D1429551652_81d330586486f23166c5bd42dedb768f&size=960%2C640&fbid=695855693764640
